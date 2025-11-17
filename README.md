@@ -1,0 +1,2 @@
+# AIpracticeandtraining
+DELL AI Training
